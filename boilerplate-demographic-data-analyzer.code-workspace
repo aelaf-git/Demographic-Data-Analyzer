@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://freecodecam-boilerplate-vpojwxema1u.ws-eu120.gitpod.io/workspace/boilerplate-demographic-data-analyzer"
+		}
+	],
+	"remoteAuthority": "freecodecam-boilerplate-vpojwxema1u.ws-eu120.gitpod.io",
+	"settings": {
+		"workbench.colorTheme": "freeCodeCamp Dark Theme"
+	}
+}
